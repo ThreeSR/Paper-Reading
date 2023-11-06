@@ -5,7 +5,7 @@ This Repo is used to collect and record papers. The topic includes vision and la
 Time order is based on the release date on ArXiv.
 [Notion Page - Paper to be read](https://rui-sun.notion.site/458332784d254a1d9b1990c911befa24?pvs=4)
 
-# Topic-Based-Order
+# Topic-Order
 ## LLM
 Prerequisite: T5 ...
 
