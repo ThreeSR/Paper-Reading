@@ -44,6 +44,8 @@ A Survey on Image-text Multimodal Models
 
 CoVLM: Composing Visual Entities and Relationships in Large Language Models Via Communicative Decoding
 
+OtterHD: A High-Resolution Multi-modality Model
+
 ### Text-to-Image
 DiagrammerGPT: Generating Open-Domain, Open-Platform Diagrams via LLM Planning (diagram generation, text-to-image)
 
