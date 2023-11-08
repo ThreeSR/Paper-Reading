@@ -42,6 +42,8 @@ NExT-GPT: Any-to-Any Multimodal LLM (MM-Dialog system, _interleaved_ multimodal 
 
 A Survey on Image-text Multimodal Models
 
+CoVLM: Composing Visual Entities and Relationships in Large Language Models Via Communicative Decoding
+
 ### Text-to-Image
 DiagrammerGPT: Generating Open-Domain, Open-Platform Diagrams via LLM Planning (diagram generation, text-to-image)
 
@@ -75,6 +77,8 @@ Small Language Models Fine-tuned to Coordinate Larger Language Models improve Co
 Detecting Pretraining Data from Large Language Models
 
 Demystifying CLIP Data
+
+Holistic Analysis of Hallucination in GPT-4V(ision): Bias and Interference Challenges
 
 ## Bias Mitigation
 Dataset Bias Mitigation in Multiple-Choice Visual Question Answering and Beyond
@@ -136,6 +140,12 @@ Can We Edit Multimodal Large Language Models?
 Resolving Knowledge Conflicts in Large Language Models (pending)
 
 Can LLMs Keep a Secret? Testing Privacy Implications of Language Models via Contextual Integrity Theory
+
+Does Localization Inform Editing? Surprising Differences in Causality-Based Localization vs. Knowledge Editing in Language Models
+
+Can Sensitive Information Be Deleted From LLMs? Objectives for Defending Against Extraction Attacks
+
+Do Language Models Have Beliefs? Methods for Detecting, Updating, and Visualizing Model Beliefs
 
 ## Dataset
 ### Visual Classification
