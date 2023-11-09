@@ -11,6 +11,12 @@ Prerequisite: T5 ...
 
 Teaching Language Models to Self-Improve through Interactive Demonstrations
 
+Large Language Models as Tool Makers
+
+Toolformer: Language Models Can Teach Themselves to Use Tools
+
+IdealGPT: Iteratively Decomposing Vision and Language Reasoning via Large Language Models
+
 ViCor: Bridging Visual Understanding and Commonsense Reasoning with Large Language Models
 
 CRAFT: Customizing LLMs by Creating and Retrieving from Specialized Toolsets
@@ -38,13 +44,45 @@ Kosmos-G: Generating Images in Context with Multimodal Large Language Models
 
 **The Dawn of LMMs: Preliminary Explorations with GPT-4V(ision)**
 
+A Survey on Image-text Multimodal Models
+
+
+
 NExT-GPT: Any-to-Any Multimodal LLM (MM-Dialog system, _interleaved_ multimodal information)
 
-A Survey on Image-text Multimodal Models
+NExT-Chat: An LMM for Chat, Detection and Segmentation
+
+MiniGPT-5: Interleaved Vision-and-Language Generation via Generative Vokens
+
+Grounding Language Models to Images for Multimodal Inputs and Outputs (ICML 2023)
+
+Generating Images with Multimodal Language Models (NIPS 2023)
+
+DreamLLM
+
+NExT-GPT: Any-to-Any Multimodal LLM
+
+SEED: Planting a SEED of Vision in Large Language Model
+
+OPENLEAF: OPEN-DOMAIN INTERLEAVED IMAGETEXT GENERATION AND EVALUATION
+
+Generative Pretraining in Multimodality (Emu)
+
+Mini-DALL•E 3: Interactive Text to Image by Prompting Large Language Models
+
+
 
 CoVLM: Composing Visual Entities and Relationships in Large Language Models Via Communicative Decoding
 
+Otter
+
 OtterHD: A High-Resolution Multi-modality Model
+
+mPLUG-Owl
+
+mPLUG-Owl2: Revolutionizing Multi-modal Large Language Model with Modality Collaboration
+
+
 
 ### Text-to-Image
 DiagrammerGPT: Generating Open-Domain, Open-Platform Diagrams via LLM Planning (diagram generation, text-to-image)
@@ -148,6 +186,8 @@ Does Localization Inform Editing? Surprising Differences in Causality-Based Loca
 Can Sensitive Information Be Deleted From LLMs? Objectives for Defending Against Extraction Attacks
 
 Do Language Models Have Beliefs? Methods for Detecting, Updating, and Visualizing Model Beliefs
+
+Massive Editing for Large Language Models via Meta Learning
 
 ## Dataset
 ### Visual Classification
