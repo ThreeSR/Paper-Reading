@@ -169,7 +169,7 @@ Revisiting the Knowledge Injection Frameworks
 
 BadLlama: cheaply removing safety fine-tuning from Llama 2-Chat 13B
 
-Unlearn What You Want to Forget: Efficient Unlearning for LLMs Introduce a new efficient unlearning approach for LLM, code has not been released yet
+Unlearn What You Want to Forget: Efficient Unlearning for LLMs, Introduce a new efficient unlearning approach for LLM, code has not been released yet
 
 Who’s Harry Potter? Approximate Unlearning in LLMs
 
