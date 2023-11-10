@@ -100,6 +100,8 @@ What does CLIP know about a red circle? Visual prompt engineering for VLMs
 
 Visual Cropping Improves Zero-Shot Question Answering of Multimodal Large Language Models
 
+MERLOT Reserve: Neural Script Knowledge through Vision and Language and Sound
+
 ### Visual Clasification
 Prompting Scientific Names for Zero-Shot Species Recognition (iNat)
 
