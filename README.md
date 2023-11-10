@@ -165,7 +165,7 @@ Tree Prompting: Efficient Task Adaptation without Fine-Tuning
 An Emulator for Fine-Tuning Large Language Models using Small Language Models
 
 ### Model Editing
-Revisiting the Knowledge Injection Frameworks
+Revisiting the Knowledge Injection Frameworks, revisit some previous works and discuss the question that random (unaligned) knowledge can obtain comparable performance as aligned knowledge
 
 BadLlama: cheaply removing safety fine-tuning from Llama 2-Chat 13B
 
