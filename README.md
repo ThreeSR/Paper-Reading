@@ -167,7 +167,7 @@ An Emulator for Fine-Tuning Large Language Models using Small Language Models
 ### Model Editing
 Revisiting the Knowledge Injection Frameworks, revisit some previous works and discuss the question that random (unaligned) knowledge can obtain comparable performance as aligned knowledge
 
-BadLlama: cheaply removing safety fine-tuning from Llama 2-Chat 13B
+BadLlama: cheaply removing safety fine-tuning from Llama 2-Chat 13B, showcase if ckpt is released, user can utilize ckpt to convert the model into previous state. Thus, even though Llama has been fine-tuned to prevent harmful content, user can also restore it in Llama. this paper investigates the conversion of safety fine-tuning.
 
 Unlearn What You Want to Forget: Efficient Unlearning for LLMs, Introduce a new efficient unlearning approach for LLM, code has not been released yet
 
