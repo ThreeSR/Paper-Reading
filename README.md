@@ -191,6 +191,12 @@ Do Language Models Have Beliefs? Methods for Detecting, Updating, and Visualizin
 
 Massive Editing for Large Language Models via Meta Learning
 
+Locating and Editing Factual Associations in GPT [[Realated Work](https://rome.baulab.info/)]
+
+Evaluating the Ripple Effects of Knowledge Editing in Language Models
+
+
+
 ## Dataset
 ### Visual Classification
 iNat (Fine-grained Visual Classification)
