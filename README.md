@@ -195,6 +195,7 @@ Locating and Editing Factual Associations in GPT [[Realated Work](https://rome.b
 
 Evaluating the Ripple Effects of Knowledge Editing in Language Models
 
+Finding and Editing Multi-Modal Neurons in Pre-Trained Transformer
 
 
 ## Dataset
