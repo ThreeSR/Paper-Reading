@@ -164,6 +164,8 @@ Tree Prompting: Efficient Task Adaptation without Fine-Tuning
 
 An Emulator for Fine-Tuning Large Language Models using Small Language Models
 
+Online Continual Knowledge Learning for Language Models
+
 ### Model Editing
 Revisiting the Knowledge Injection Frameworks, revisit some previous works and discuss the question that random (unaligned) knowledge can obtain comparable performance as aligned knowledge
 
