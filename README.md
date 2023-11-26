@@ -185,7 +185,7 @@ Can LLMs Keep a Secret? Testing Privacy Implications of Language Models via Cont
 
 Does Localization Inform Editing? Surprising Differences in Causality-Based Localization vs. Knowledge Editing in Language Models
 
-Can Sensitive Information Be Deleted From LLMs? Objectives for Defending Against Extraction Attacks
+Can Sensitive Information Be Deleted From LLMs? Objectives for Defending Against Extraction Attacks (Black-box and white-box attack)
 
 Do Language Models Have Beliefs? Methods for Detecting, Updating, and Visualizing Model Beliefs
 
