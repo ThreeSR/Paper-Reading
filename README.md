@@ -199,6 +199,14 @@ Evaluating the Ripple Effects of Knowledge Editing in Language Models
 
 Finding and Editing Multi-Modal Neurons in Pre-Trained Transformer
 
+#### ICL Model Editing
+
+Can We Edit Factual Knowledge by In-Context Learning?
+
+Mquake: Assessing knowledge editing in language models via multi-hop questions
+
+Memory-assisted prompt editing to improve GPT-3 after deployment
+
 
 ## Dataset
 ### Visual Classification
