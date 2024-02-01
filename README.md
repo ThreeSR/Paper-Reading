@@ -199,6 +199,12 @@ Evaluating the Ripple Effects of Knowledge Editing in Language Models
 
 Finding and Editing Multi-Modal Neurons in Pre-Trained Transformer
 
+Untying the Reversal Curse via Bidirectional Language Model Editing
+
+Model Editing Can Hurt General Abilities of Large Language Models
+
+
+
 #### ICL Model Editing
 
 Can We Edit Factual Knowledge by In-Context Learning?
