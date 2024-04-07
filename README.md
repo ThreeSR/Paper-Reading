@@ -6,6 +6,13 @@ Time order is based on the release date on ArXiv.
 [Notion Page - Paper to be read](https://rui-sun.notion.site/458332784d254a1d9b1990c911befa24?pvs=4)
 
 # Topic-Order
+## Language Agent
+Mind2Web: Towards a Generalist Agent for the Web
+
+SeeAct GPT-4V(ision) is a Generalist Web Agent, if Grounded
+
+WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents
+
 ## LLM
 Prerequisite: T5 ...
 
