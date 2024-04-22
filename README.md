@@ -8,13 +8,19 @@ Time order is based on the release date on ArXiv.
 # Topic-Order
 ## Language Agent
 
-Some scenarios: Online Shopping, OS, API, VLN, Travel Planning
+Some scenarios: Online Shopping, OS, API, VLN, Travel Planning, Tool Use
+
+Online Shopping
 
 Mind2Web: Towards a Generalist Agent for the Web
 
 SeeAct GPT-4V(ision) is a Generalist Web Agent, if Grounded
 
 WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents
+
+WebArena
+
+VisualWebArena
 
 ## LLM
 Prerequisite: T5 ...
