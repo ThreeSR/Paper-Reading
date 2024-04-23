@@ -22,6 +22,16 @@ WebArena
 
 VisualWebArena
 
+Tool Use
+
+m&m’s: A Benchmark to Evaluate Tool-Use for multi-step multi-modal Tasks
+
+Vision-and-Language Navigation
+
+NavGPT: Explicit Reasoning in Vision-and-Language Navigation with Large Language Models
+
+
+
 ## LLM
 Prerequisite: T5 ...
 
