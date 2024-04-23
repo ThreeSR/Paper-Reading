@@ -12,23 +12,27 @@ Some scenarios: Online Shopping, OS, API, VLN, Travel Planning, Tool Use, Mobile
 
 Online Shopping
 
-Mind2Web: Towards a Generalist Agent for the Web
+Mind2Web: Towards a Generalist Agent for the Web [Pending]
 
 SeeAct GPT-4V(ision) is a Generalist Web Agent, if Grounded
 
-WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents
+WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents [Pending]
 
-WebArena
+WebArena [Read]
 
-VisualWebArena
+VisualWebArena [Read]
 
 Tool Use
 
-m&m’s: A Benchmark to Evaluate Tool-Use for multi-step multi-modal Tasks
+m&m’s: A Benchmark to Evaluate Tool-Use for multi-step multi-modal Tasks [Read]
 
 Vision-and-Language Navigation
 
-NavGPT: Explicit Reasoning in Vision-and-Language Navigation with Large Language Models
+NavGPT: Explicit Reasoning in Vision-and-Language Navigation with Large Language Models [Read]
+
+OS
+
+OSWORLD: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments [Pending]
 
 
 
