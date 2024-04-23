@@ -8,7 +8,7 @@ Time order is based on the release date on ArXiv.
 # Topic-Order
 ## Language Agent
 
-Some scenarios: Online Shopping, OS, API, VLN, Travel Planning, Tool Use
+Some scenarios: Online Shopping, OS, API, VLN, Travel Planning, Tool Use, Mobile UI
 
 Online Shopping
 
